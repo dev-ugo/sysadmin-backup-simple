@@ -1,0 +1,8 @@
+backups/*
+!backups/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+data/important_files/*
+!data/important_files/.gitkeep
